@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <Compile Remove="packages\**\*.cs" />
+    <Compile Remove="Properties\AssemblyInfo.cs" />
+    <Reference Remove="Microsoft.Web.WebView2.Wpf" />
+    <None Include="Properties\Settings.settings" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="Resources\proxy_on.ico" />
+    <EmbeddedResource Include="Resources\proxy_off.ico" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ProxyToggle</RootNamespace>
+    <AssemblyName>ProxyToggle</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="CommunityToolkit.WinUI.Notifications" Version="7.1.2" />
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.3405.78" />
+  </ItemGroup>
+</Project>

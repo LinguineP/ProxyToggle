@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "KkI1HdlDdIY=",
+  "success": true,
+  "projectFilePath": "D:\\personal\\repos\\ProxyToggle\\source\\ProxyToggle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pavle\\.nuget\\packages\\communitytoolkit.winui.notifications\\7.1.2\\communitytoolkit.winui.notifications.7.1.2.nupkg.sha512",
+    "C:\\Users\\Pavle\\.nuget\\packages\\microsoft.web.webview2\\1.0.3405.78\\microsoft.web.webview2.1.0.3405.78.nupkg.sha512",
+    "C:\\Users\\Pavle\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\Pavle\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.19\\microsoft.netcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\Pavle\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.19\\microsoft.windowsdesktop.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\Pavle\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.19\\microsoft.aspnetcore.app.ref.8.0.19.nupkg.sha512",
+    "C:\\Users\\Pavle\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.19\\microsoft.netcore.app.host.win-x64.8.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
